@@ -4,61 +4,82 @@
 
 Welcome to my IT Infrastructure Portfolio!
 
-I am an aspiring IT professional with an interest in IT Support, Linux Server Administration, Networking, Virtualization, and Cybersecurity.
+I am an aspiring IT professional interested in IT Support, Linux Server Administration, Networking, Virtualization, and Cybersecurity.
 
-This repository documents my hands-on projects, technical experiments, system configurations, troubleshooting processes, and continuous learning journey in IT Infrastructure and Cybersecurity.
+This repository showcases my hands-on projects, technical implementations, troubleshooting experiences, and continuous learning journey in IT Infrastructure and Cybersecurity.
 
 ---
 
 ## 🎯 Areas of Interest
 
-- IT Support & Troubleshooting
+- IT Support & Technical Troubleshooting
 - Linux Server Administration
-- Web Server Deployment
 - Network Administration
 - Virtualization & Infrastructure Management
-- Server Security & Hardening
+- Web Server Deployment
+- Infrastructure Security
 - Security Monitoring & Threat Detection
 
 ## 🛠️ Technical Skills & Tools
 
+### Hands-on Experience
+
 | Category | Technologies |
 |---|---|
-| Operating Systems | Linux |
+| Operating System | Ubuntu Server 22.04.2 LTS |
+| Virtualization | Oracle VirtualBox |
 | Web Server | Nginx |
-| Virtualization | Proxmox VE |
-| Networking | TCP/IP, DNS, DHCP |
-| Security | Linux Hardening, Firewall |
-| Monitoring | Linux Logs, System Monitoring |
+| Remote Administration | OpenSSH |
+| Firewall | UFW |
+| Networking | TCP/IP, Bridged Networking |
+| Package Management | APT, DPKG |
 | Version Control | Git & GitHub |
 
-*This section will be updated as I gain practical experience with each technology.*
+### Currently Learning
+
+| Category | Technologies |
+|---|---|
+| Virtualization | Proxmox VE |
+| Linux Administration | User Management, Permissions, Services |
+| Networking | DNS, DHCP, Network Monitoring |
+| Cybersecurity | Server Hardening, Security Fundamentals |
+| Security Monitoring | Wazuh, SIEM |
+
+---
 
 ## 🚀 Projects
 
-### 01. Nginx Web Server Deployment
+### 01. Ubuntu Server Deployment & Administration
 
 **Status:** Completed
 
-A hands-on project focused on installing and configuring Nginx as a web server and deploying a simple website.
+A practical project simulating a Junior System Administrator role in a virtual company environment.
 
-Key activities:
-- Nginx installation and configuration.
-- Web server deployment.
-- Website accessibility testing.
-- Basic server troubleshooting.
+**Technologies:** Ubuntu Server, VirtualBox, OpenSSH, Nginx, UFW.
+
+Key implementations:
+- Ubuntu Server installation and configuration.
+- Virtual machine deployment using VirtualBox.
+- Network configuration and connectivity testing.
+- SSH remote administration.
+- Nginx web server installation and website deployment.
+- Firewall configuration using UFW.
+- Troubleshooting package management issues.
+- Service validation and post-firewall testing.
+
+📁 **[View Project Documentation](./01-nginx-web-server-deployment/README.md)**
 
 ### 02. Proxmox Virtualization
 
 **Status:** In Progress
 
-Learning virtualization and server infrastructure management using Proxmox VE.
+Learning server virtualization, virtual machine management, and infrastructure administration using Proxmox VE.
 
 ### 03. Linux Server Administration
 
 **Status:** Planned
 
-Exploring Linux system administration, user management, permissions, services, and remote server access.
+Exploring Linux user management, file permissions, system services, and remote server administration.
 
 ### 04. Network Configuration & Monitoring
 
@@ -70,7 +91,7 @@ Learning network configuration, connectivity testing, and network troubleshootin
 
 **Status:** Planned
 
-Exploring SSH security, firewall configuration, access control, and server security practices.
+Exploring SSH security, firewall management, access control, and Linux server hardening.
 
 ### 06. Security Monitoring with Wazuh
 
@@ -88,9 +109,11 @@ Learning SIEM implementation, security log analysis, and threat detection.
 - Server Management
 - Cybersecurity Fundamentals
 
-## 📌 Portfolio Goals
+## 📌 Career Goals
 
-My goal is to develop practical skills in IT Infrastructure and gradually expand my knowledge into Cybersecurity, with a focus on building, managing, securing, and monitoring IT systems.
+My goal is to build a strong foundation in IT Infrastructure and gradually develop expertise in Cybersecurity.
+
+I am particularly interested in learning how to build, manage, secure, monitor, and maintain reliable IT systems.
 
 ---
 
